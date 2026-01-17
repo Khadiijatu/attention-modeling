@@ -9,6 +9,6 @@ The project emphasizes:
 - careful dataset design,
 - explicit limits of behavioral attention proxies.
 
-Project page: https://YOUR_USERNAME.github.io/attention-modeling
+Project page: https://khadiijatu.github.io/attention-modeling
 
 Status: Ongoing. Manuscript in preparation.
