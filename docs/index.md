@@ -130,4 +130,4 @@ Prediction models are used only as robustness checks, not as objectives.
 **Khadidiatou Cissé**  
 MSc Mathematics | Performance Engineer | Data & ML Research
 
-Links: [GitHub](https://github.com/Khadiijatu) • [LinkedIn](www.linkedin.com/in/khadijatea)
+Links: [GitHub](https://github.com/Khadiijatu) • [LinkedIn](https://www.linkedin.com/in/khadijatea/)
